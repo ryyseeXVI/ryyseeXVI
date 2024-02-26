@@ -2,8 +2,8 @@
 
 - 🌱 My tech stack: 
   - Web dev ;
-      - Front-env : HTML/CSS, JavaScript/TypeScript with the following frameworks and (modules) ; Vue2(Vue property decorator, Vuex) / Vue3(ClassAPI, PiniaStore)
-      - Back-end : JavaScript with the following framework and (modules) ; ExpressJS(JsonWebToken)
+      - Front-env : HTML/CSS, JavaScript/TypeScript with the following frameworks and (modules) ; Vue2 (Vue property decorator, Vuex) / Vue3 (ClassAPI, PiniaStore)
+      - Back-end : JavaScript with the following framework and (modules) ; ExpressJS (JsonWebToken)
   - C
   - C++
   - Python
