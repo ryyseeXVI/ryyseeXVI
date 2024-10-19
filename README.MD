@@ -12,3 +12,5 @@
   - Lua
 
 - 📫 How to reach me: via e-mail matthieu.bousquet@epitech.eu or via my linkdin profile : https://www.linkedin.com/in/matthieu-bousquet-8070a7262/
+
+### Due to concerns about cheating, I am not allowed to publish my school projects. Feel free to contact me if you're curious about them.
