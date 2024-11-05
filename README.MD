@@ -8,6 +8,6 @@
 
 - 📫 **How to reach me**:  
   - Email: [matthieu.bousquet@epitech.eu](mailto:matthieu.bousquet@epitech.eu)
-  - LinkedIn: [Matthieu Bousquet](https://www.linkedin.com/in/matthieu-bousquet-8070a7262/)
+  - LinkedIn: [Matthieu Bousquet](https://www.linkedin.com/in/matthieu-b-8070a7262/)
 
 > ⚠️ **Note**: For academic integrity, I'm unable to publish school projects on GitHub. However, I’d be glad to discuss them in detail if you're interested.
