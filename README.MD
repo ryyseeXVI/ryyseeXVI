@@ -4,7 +4,7 @@
   - **Web Development**:
       - **Frontend**: HTML/CSS, JavaScript/TypeScript with frameworks like Vue 2/3, Next.js (React), Expo (React Native), and Flutter.
       - **Backend**: Express.js (Node.js) and Symfony (PHP).
-  - **Languages**: C, C++, Python, Assembly, Haskell, Lua, Shell
+  - **Languages**: C, C++, Python, Assembly, Haskell, Lua, Shell, Erlang
 
 - 📫 **How to reach me**:  
   - Email: [matthieu.bousquet@epitech.eu](mailto:matthieu.bousquet@epitech.eu)
