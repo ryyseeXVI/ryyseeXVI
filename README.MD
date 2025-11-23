@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryyseexvi" alt="ryyseexvi" /></a> </p>
 
-- 🔭 I’m currently working on **multiple webapps (ballto.fr, aurentia.fr, and 3 more to come :D) !**
+- 🔭 I’m currently working on **multiple webapps (ballto.fr, aurentia.fr, allorestau.fr and 3 more to come :D) !**
 
 - 🌱 I’m currently learning **about entrepreneurship and AI, i already learned too many languages for my own good**
 
