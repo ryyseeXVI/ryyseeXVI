@@ -1,9 +1,5 @@
 <h3 align="center">A tech enthusiast from France (and an hackathon warrior), won hacktogone1 and hacktogone2 with both 10k cashprizes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryyseexvi&label=Profile%20views&color=0e75b6&style=flat" alt="ryyseexvi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryyseexvi" alt="ryyseexvi" /></a> </p>
-
 - 🔭 I’m currently working on **multiple webapps (ballto.fr, aurentia.fr, allorestau.fr and 3 more to come :D) !**
 
 - 🌱 I’m currently learning **about entrepreneurship and AI, i already learned too many languages for my own good**
